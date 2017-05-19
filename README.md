@@ -19,6 +19,7 @@ Useful Links
 9. [Premailer, preflight check for emails](http://premailer.dialect.ca/)
 10. [JPEGmini image compression tool](http://www.jpegmini.com/)
 11. [tinyPNG image compression tool](http://tinypng.org/)
-12.  [Sublime Text, my preferred editor](http://www.sublimetext.com/)
+12. [Sublime Text, my preferred editor](http://www.sublimetext.com/)
+13. [CSS Best Practices: Analysis of CSS properties for 16 of the most popular email applications](http://freshmail.com/developers/best-practices-for-email-coding/)
 
 # If anyone has any great links please share :) 
